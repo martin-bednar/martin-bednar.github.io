@@ -166,8 +166,6 @@ export default function Home() {
                     <li><strong>DevOps:</strong> Docker, Git, CI/CD, Google Cloud Platform, Netlify</li>
                     <li><strong>Testing:</strong> Storybook, Jest, Playwright</li>
                 </ul>
-
-                <div className="m-12 text-4xl font-bold">MB</div>
             </main>
         </div>
     );
