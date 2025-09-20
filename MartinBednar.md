@@ -3,9 +3,9 @@
 
 **I turn business ideas into custom software solutions.**
 
-I'm a full-stack software engineer focused on building custom software and web applications that solve real-world problems. My favorite work lies in translating complex business needs into simple, powerful, and effective technical solutions.
+I'm a full-stack software engineer focused on building custom software and web applications that solve real-world problems. My favorite work lies in translating complex business needs into effective technical solutions.
 
-As an independent software engineer, I'm contributing to the development of several projects:
+As an independent software engineer, I'm currently contributing to the development of several projects:
 
  - [Sportera](https://sportera.cz/), a platform that maps public sports facilities,
  - [decathlon.cz](https://decathlon.cz/), an e-commerce platform for sports equipment,
@@ -29,6 +29,7 @@ As an independent software engineer, I'm contributing to the development of seve
 ### 2023
 
 - Created an interactive web application as part of a digital art exhibition in cooperation with students of the Academy of Fine Arts in Prague.
+- Developed a text-processing middleware to for generating the [vocative case](https://en.wikipedia.org/wiki/Vocative_case) of Czech names. The middleware is used to handle milions of emails weekly. 
 
 ### 2022
 
@@ -48,7 +49,7 @@ As an independent software engineer, I'm contributing to the development of seve
 ## Technical Skills
 
 - **Analysis:** Requirements gathering, System design, UML, BPMN
-- **Design:** UI/UX design, Software architecture, REST API
+- **Design:** UI/UX design, Software architecture, REST API, OpenAPI/Swagger
 - **Frontend:** JavaScript, TypeScript, React, Vue, Svelte, HTML, CSS
 - **Backend:** Node.js, Express, Nest.js, PHP, Python, Haskell
 - **Databases:** PostgreSQL, MySQL, SQLite, Firebase, Supabase
