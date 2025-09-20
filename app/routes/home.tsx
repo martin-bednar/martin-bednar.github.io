@@ -13,7 +13,7 @@ export function meta({}: Route.MetaArgs) {
 export default function Home() {
     return (
         <div
-            className="my-4 p-2 font-light text-stone-900 max-w-3xl mx-auto lg:max-w-[unset] lg:mx-12 lg:mt-16 lg:grid lg:grid-cols-[2fr_3fr] lg:gap-16 text-sm/6">
+            className="my-4 p-6 font-light text-stone-900 max-w-3xl mx-auto lg:max-w-[unset] lg:mx-8 lg:mt-16 lg:grid lg:grid-cols-[2fr_3fr] lg:gap-18 text-sm/6">
             <header className="mt-8 mb-4 lg:mt-0 lg:mb-0 lg:sticky lg:top-4 lg:self-start">
                 <h1 className="text-[2.5rem] font-medium mt-2 mb-3">Martin Bednář</h1>
                 <p className="text-lg font-normal mb-4">Software Engineer</p>
@@ -167,6 +167,7 @@ export default function Home() {
                     <li><strong>Testing:</strong> Storybook, Jest, Playwright</li>
                 </ul>
             </main>
+
         </div>
     );
 }
